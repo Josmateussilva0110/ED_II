@@ -1,4 +1,4 @@
-#ESTRUTURA DE DADOS\n
+# ESTRUTURA DE DADOS
 Algumas atividades realizadas na materia de Estrutura de Dados II, curso Sistema de Informação.
 •	Implementação da arvore binaria.
 •	Implementação da arvore AVL.
