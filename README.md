@@ -4,5 +4,5 @@ Algumas atividades realizadas na materia de Estrutura de Dados II, curso Sistema
 •	Implementação da arvore AVL.  
 •	Implementação da arvore rubro negra.  
 •	Implementação da arvore 2-3.  
-•	Implementação da arvore 4-5.
+•	Implementação da arvore 4-5.  
 •	Implementação de grafo.
